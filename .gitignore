@@ -41,7 +41,3 @@ __pycache__
 
 # Env files
 .env
-dev.db
-__pycache__/
-*.pyc
-.env
